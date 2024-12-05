@@ -1,4 +1,4 @@
-static const char *background_color = "#005577";
+static const char *background_color = "#111111";
 static const char *border_color = "#005577";
 static const char *font_color = "#eeeeee";
 static const char *font_pattern = "monospace:size=16";
