@@ -1,6 +1,6 @@
-static const char *background_color = "#222222";
-static const char *border_color = "#000000";
-static const char *font_color = "#bbbbbb";
+static const char *background_color = "#111111";
+static const char *border_color = "#eeeeee";
+static const char *font_color = "#dddddd";
 static const char *font_pattern = "monospace:size=16";
 static const unsigned line_spacing = 5;
 static const unsigned int padding = 15;
@@ -8,7 +8,7 @@ static const unsigned int padding = 15;
 static const unsigned int width = 450;
 static const unsigned int border_size = 2;
 static const unsigned int pos_x = 30;
-static const unsigned int pos_y = 60;
+static const unsigned int pos_y = 30;
 
 enum corners { TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT };
 enum corners corner = TOP_RIGHT;
