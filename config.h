@@ -1,5 +1,5 @@
 static const char *background_color = "#222222";
-static const char *border_color = "#005577";
+static const char *border_color = "#000000";
 static const char *font_color = "#bbbbbb";
 static const char *font_pattern = "monospace:size=16";
 static const unsigned line_spacing = 5;
